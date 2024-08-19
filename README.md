@@ -6,7 +6,11 @@ The Human Follow Robot is an Arduino-based project designed to follow a human or
 
 ## Language Used
 
-- **C/C++**: The project is implemented using the Arduino programming language, which is a subset of C/C++. The code utilizes various Arduino libraries to interface with sensors and motors.
+- **C++**: The project is implemented using the Arduino programming language, which is a subset of C++. The code utilizes various Arduino libraries to interface with sensors and motors.
+
+## Arduino Board Used
+
+- **Arduino UNO**
 
 ## Components Used
 
